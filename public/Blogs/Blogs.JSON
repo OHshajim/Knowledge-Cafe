@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "title": "EduQuest: Exploring Education Technology Trends",
+        "img": "https://i.ibb.co/vwp6NST/technology-communication-icons-symbols-concept.jpg",
+        "author": "Linda Smith",
+        "author_img": "https://i.ibb.co/YyZrmJY/photo-focused-woman-has-hair-knot-has-serious-clever-expression-textbook.jpg",
+        "tags": [
+            "#Education",
+            "#EdTech",
+            "#Learning"
+        ],
+        "release_date": "2024-03-10 (5 days ago)",
+        "reading_time": "8 min"
+    },
+    {
+        "id": 2,
+        "title": "Learniverse: Lifelong Learning and Self-Improvement Guide",
+        "img": "https://i.ibb.co/0YctFnd/tim-mossholder-WE-Kv-ZB1l0-unsplash.jpg",
+        "author": "John Johnson",
+        "author_img": "https://i.ibb.co/8YB6S9g/cricket-player-with-bat-ball-3d-illustration.jpg",
+        "tags": [
+            "#LifelongLearning",
+            "#SelfImprovement",
+            "#Career"
+        ],
+        "release_date": "2024-03-12 (3 days ago)",
+        "reading_time": "10 min"
+    },
+    {
+        "id": 3,
+        "title": "BrainByte: Cognitive Potential and Learning Strategies",
+        "img": "https://i.ibb.co/SJ2pQ60/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+        "author": "Alice Green",
+        "author_img": "https://i.ibb.co/hgxzDq8/caucasian-woman-enjoys-relaxation-amidst-autumn-scenery-generative-ai.jpg",
+        "tags": [
+            "#CognitiveScience",
+            "#LearningStrategies",
+            "#BrainHealth"
+        ],
+        "release_date": "2024-03-08 (7 days ago)",
+        "reading_time": "12 min"
+    },
+    {
+        "id": 4,
+        "title": "SkillUpNow: Mastering Programming, Marketing, and More",
+        "img": "https://i.ibb.co/N3r9v3p/composition-with-html-system-websites.jpg",
+        "author": "Mark Wilson",
+        "author_img": "https://i.ibb.co/Fgd1xrG/cartoon-character-with-yellow-jacket-sunglasses.jpg",
+        "tags": [
+            "#SkillDevelopment",
+            "#Programming",
+            "#Marketing"
+        ],
+        "release_date": "2024-03-09 (6 days ago)",
+        "reading_time": "15 min"
+    },
+    {
+        "id": 5,
+        "title": "KnowledgeHub: General Knowledge in Science and History",
+        "img": "https://i.ibb.co/gJXDncs/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+        "author": "Emma Davis",
+        "author_img": "https://i.ibb.co/mTR5Dj1/allef-vinicius-Bq-NEe-ZAtxg-unsplash.jpg",
+        "tags": [
+            "#GeneralKnowledge",
+            "#Science",
+            "#History"
+        ],
+        "release_date": "2024-03-11 (4 days ago)",
+        "reading_time": "7 min"
+    },
+    {
+        "id": 6,
+        "title": "StudySphere: Exam Prep and Academic Writing Resources",
+        "img": "https://i.ibb.co/h90qDwQ/road-trip-with-raj-o4c2zo-Vhj-Sw-unsplash.jpg",
+        "author": "James Lee",
+        "author_img": "https://i.ibb.co/q0xky5V/rafaella-mendes-diniz-Ao-L-m-Vxprmk-unsplash.jpg",
+        "tags": [
+            "#StudyGuides",
+            "#ExamPreparation",
+            "#AcademicWriting"
+        ],
+        "release_date": "2024-03-14 (1 day ago)",
+        "reading_time": "9 min"
+    },
+    {
+        "id": 7,
+        "title": "TechTutors: Technology Education and Programming Tutorials",
+        "img": "https://i.ibb.co/6t650vm/ilya-pavlov-Oqtaf-YT5k-Tw-unsplash.jpg",
+        "author": "Sophia Brown",
+        "author_img": "https://i.ibb.co/TT5WSr0/sad-teenager-guy-background-city-generative-ai.jpg",
+        "tags": [
+            "#TechnologyEducation",
+            "#Programming",
+            "#IT"
+        ],
+        "release_date": "2024-03-16 (0 days ago)",
+        "reading_time": "11 min"
+    },
+    {
+        "id": 8,
+        "title": "LanguageLounge: Immersive Language Learning Experiences",
+        "img": "https://i.ibb.co/n7Jt0ZY/element5-digital-Oy-Cl7-Y4y0-Bk-unsplash.jpg",
+        "author": "Daniel Clark",
+        "author_img": "https://i.ibb.co/CwtsBGc/henry-tuchez-ge5-VYVTZMtc-unsplash-1.jpg",
+        "tags": [
+            "#LanguageLearning",
+            "#Spanish",
+            "#French"
+        ],
+        "release_date": "2024-03-18 (0 days ago)",
+        "reading_time": "13 min"
+    },
+    {
+        "id": 9,
+        "title": "FinanceFundamentals: Financial Education for Investing and Budgeting",
+        "img": "https://i.ibb.co/MfgCj8D/be-change-inspired-active-thunder-website.jpg",
+        "author": "Olivia Martinez",
+        "author_img": "https://i.ibb.co/9tLkr9k/caucasian-woman-s-portrait-isolated-blue-space-neon-light.jpg",
+        "tags": [
+            "#FinancialEducation",
+            "#Investing",
+            "#Budgeting"
+        ],
+        "release_date": "2024-03-20 (0 days ago)",
+        "reading_time": "16 min"
+    },
+    {
+        "id": 10,
+        "title": "ArtAcademy: Creative Potential in Drawing and Photography",
+        "img": "https://i.ibb.co/59QdQ7b/muhammad-rahim-ali-au-Nr-4jnx8-U-unsplash.jpg",
+        "author": "Ryan Adams",
+        "author_img": "https://i.ibb.co/3BQ9DZF/christian-wiediger-8n-XKXYd-O-Wk-unsplash.jpg",
+        "tags": [
+            "#CreativeLearning",
+            "#Drawing",
+            "#Photography"
+        ],
+        "release_date": "2024-03-22 (0 days ago)",
+        "reading_time": "14 min"
+    }
+]
