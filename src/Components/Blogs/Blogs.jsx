@@ -11,8 +11,8 @@ const Blogs = () => {
     },[])
     console.log(Blogs);
     return (
-        <div>
-            <h1>Blogs : {Blogs.length}</h1>
+        <div className="m-10">
+            <h1 className="text-xl">Blogs : {Blogs.length}</h1>
             {
                 Blogs.map(blog=> <Blog key={blog.id} blog={blog}></Blog>)
             }
