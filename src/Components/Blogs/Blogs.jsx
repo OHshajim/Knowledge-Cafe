@@ -11,11 +11,13 @@ const Blogs = () => {
     },[])
     console.log(Blogs);
     return (
-        <div className="m-10">
-            <h1 className="text-xl">Blogs : {Blogs.length}</h1>
-            {
+        <div className="m-10 flex flex-col justify-center items-center">
+            <h1 className="text-4xl">Blogs : {Blogs.length}</h1>
+           <div >
+           {
                 Blogs.map(blog=> <Blog key={blog.id} blog={blog}></Blog>)
             }
+           </div>
         </div>
     );
 };

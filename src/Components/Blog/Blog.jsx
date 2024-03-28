@@ -3,7 +3,7 @@ const Blog = ({ blog }) => {
     const { title, img, author, author_img, reading_time, release_date, tags } = blog;
     console.log(blog);
     return (
-        <div className=" w-[700px] p-5 space-y-3">
+        <div className=" w-[700px] p-5 space-y-3 my-10 ">
             <img src={img} alt="" className="w-[660px] h-[400px] rounded-xl" />
             <div className="flex justify-between items-center gap-4 ">
                 <div className="flex gap-4 items-center">
